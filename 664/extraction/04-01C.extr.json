@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 90.0, 
+    "commit": "f3b874145e76da2b9139603578af9cc8a90c072e", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 9.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "YidceGUzRVx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBeXHhhYTtceDAwXHgwMFx4ZmFEXHhkZXlceDAwQFx4MDBceDAwXHhmYURceDFjSFx4ODBAXHgwMFx4MDBceGZhRCc=", 
+    "pattern": "37hole_diamond.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "15", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "YidceGUzRVx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBeXHhhYTtceDAwXHgwMFx4MDBceDAwXHhkZXlceDAwQFx4MDBceDAwXHgwMFx4MDBceDFjSFx4ODBAXHgwMFx4MDBceDAwXHgwMCc=", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 15.71
+}
