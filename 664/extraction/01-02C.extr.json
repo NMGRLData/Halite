@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "3.5", 
+    "cleanup_duration": 90.0, 
+    "commit": "5508e98f68e602e9c873ae6eb97b23f911cba362", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 13.5, 
+    "grain_polygon_blob": [], 
+    "measured_response": "YidceGVhVFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDB2XHhhYTtceDAwXHgwMFx4ZmFEXHhkNGNceDAwQFx4MDBceDAwXHhmYURceDFlalx4ODBAXHgwMFx4MDBceGZhRHxceDkwXHhjMEBceDAwXHgwMFx4ZmFEXHg4MUxceDAwQVx4MDBceDAwXHhmYURUUiBBXHgwMFx4MDBceGZhRCVkQEFceDAwXHgwMFx4ZmFEXHhlYnZgQVx4MDBceDAwXHhmYURceDlkSlx4ODBBXHgwMFx4MDBceGZhRFx4YzBMXHg5MEFceDAwXHgwMFx4ZmFEXHhmOEpceGEwQVx4MDBceDAwXHhmYURsWVx4YjBBXHgwMFx4MDBceGZhRD5bXHhjMEFceDAwXHgwMFx4ZmFEe1lceGQwQVx4MDBceDAwXHhmYUQ2XFxceGUwQVx4MDBceDAwXHhmYURkbFx4ZjBBXHgwMFx4MDBceGZhRDQ9XHgwMEJceDAwXHgwMFx4ZmFEXHhjYUFceDA4Qlx4MDBceDAwXHhmYURceGQ0R1x4MTBCXHgwMFx4MDBceGZhRCNHXHgxOEJceDAwXHgwMFx4ZmFEXHhlOUcgQlx4MDBceDAwXHhmYURceGI3TChCXHgwMFx4MDBceGZhRFx4ZWFVMEJceDAwXHgwMFx4ZmFEJw==", 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "6", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "YidceGVhVFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDB2XHhhYTtceDAwXHgwMFx4MDBceDAwXHhkNGNceDAwQFx4MDBceDAwXHgwMFx4MDBceDFlalx4ODBAXHgwMFx4MDBceDAwXHgwMHxceDkwXHhjMEBceDAwXHgwMFx4MDBceDAwXHg4MUxceDAwQS5ceGJjXHgwMUJUUiBBLlx4YmNceDAxQiVkQEEuXHhiY1x4MDFCXHhlYnZgQS5ceGJjXHgwMUJceDlkSlx4ODBBLlx4YmNceDAxQlx4YzBMXHg5MEEuXHhiY1x4MDFCXHhmOEpceGEwQS5ceGJjXHgwMUJsWVx4YjBBLlx4YmNceDAxQj5bXHhjMEEuXHhiY1x4MDFCe1lceGQwQS5ceGJjXHgwMUI2XFxceGUwQS5ceGJjXHgwMUJkbFx4ZjBBLlx4YmNceDAxQjQ9XHgwMEIuXHhiY1x4MDFCXHhjYUFceDA4Qi5ceGJjXHgwMUJceGQ0R1x4MTBCLlx4YmNceDAxQiNHXHgxOEIuXHhiY1x4MDFCXHhlOUcgQi5ceGJjXHgwMUJceGI3TChCLlx4YmNceDAxQlx4ZWFVMEIuXHhiY1x4MDFCJw==", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "37-hole", 
+    "videos": [], 
+    "weight": 20.77
+}
