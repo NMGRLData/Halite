@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 60.0,
+    "commit": "cb6be7c99bcd469f53cdb08ea49fcf10b445bde3",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 25.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "61-hole",
+    "load_name": "D0193",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 4,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 15.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2024-05-10T10:01:11.167762",
+    "tray": "61-hole",
+    "videos": [
+        "No Response"
+    ],
+    "weight": 5.15
+}
